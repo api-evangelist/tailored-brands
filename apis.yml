@@ -24,6 +24,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/tailored-brands-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/tailored-brands-inc-
   - type: Website
@@ -40,6 +42,8 @@ common:
     url: https://www.tailoredbrands.com/investors/company-profile/
   - type: Careers
     url: https://careers.tailoredbrands.com
+  - url: https://www.tailoredbrands.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
