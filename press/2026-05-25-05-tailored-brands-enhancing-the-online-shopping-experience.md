@@ -1,7 +1,9 @@
 ---
 title: 'Tailored Brands: Enhancing the online shopping experience'
 url: https://egen.ai/customer-stories/tailored-brands-enhancing-the-online-shopping-experience/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tailored Brands" press release artificial intelligence'
 position: 5
 source: serpapi-google

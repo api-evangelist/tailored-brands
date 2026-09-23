@@ -1,7 +1,9 @@
 ---
 title: TAILORED BRANDS ANNOUNCES NEW BOARD ...
 url: https://www.prnewswire.com/news-releases/tailored-brands-announces-new-board-leadership-302401130.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tailored Brands" press release artificial intelligence'
 position: 1
 source: serpapi-google

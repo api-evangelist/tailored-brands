@@ -1,7 +1,9 @@
 ---
 title: Bold Metrics in the news
 url: https://boldmetrics.com/press
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tailored Brands" press release artificial intelligence'
 position: 3
 source: serpapi-google

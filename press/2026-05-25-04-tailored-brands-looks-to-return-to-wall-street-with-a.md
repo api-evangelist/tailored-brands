@@ -1,7 +1,9 @@
 ---
 title: Tailored Brands Looks to Return to Wall Street With a ...
 url: https://finance.yahoo.com/markets/stocks/articles/tailored-brands-looks-return-wall-184010565.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tailored Brands" press release artificial intelligence'
 position: 4
 source: serpapi-google
